@@ -18,7 +18,9 @@ I'm a **Junior Software Developer** with hands-on experience in **full-stack web
 
 **Backend**
 - Java  
-- Spring Boot  
+- Spring Boot
+- Nest JS
+- TypeScript  
 - REST APIs  
 - MySQL, PostgreSQL  
 
